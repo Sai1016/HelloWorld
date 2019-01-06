@@ -1,1 +1,1 @@
-# HelloWorld - Hi world
+# HelloWorld
